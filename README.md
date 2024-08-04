@@ -1,6 +1,6 @@
 # @jraymakers/duckdb-node-packages
 
-This repository contains a [GitHub Packages NPM Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry) that serves as a temporary location for the DuckDB Node API implementation in [@duckdb/duckdb-node-neo (alt branch)](https://github.com/duckdb/duckdb-node-neo/tree/jray/alt).
+This repository contains a [GitHub Packages NPM Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry) that serves as a temporary location for the DuckDB Node API implementation in [@duckdb/duckdb-node-neo (alt branch)](https://github.com/duckdb/duckdb-node-neo/tree/jray/alt/alt).
 
 Note that only Mac OS X (Apple Silicon) is supported at the moment.
 
